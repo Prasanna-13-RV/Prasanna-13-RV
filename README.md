@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prasanna</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prasanna</h1>
 <h3 align="center">A passionate full stack developer from India...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanna-13-rv&label=Profile%20views&color=0e75b6&style=flat" alt="prasanna-13-rv" /> </p>
