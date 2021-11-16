@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanna-13-rv&label=Profile%20views&color=0e75b6&style=flat" alt="prasanna-13-rv" /> </p>
 
-- 🌱 I’m currently learning **React , Pega**
+- 🌱 I’m currently learning **React , Angular**
 
 - 📫 How to reach me **prasannavelmurugan0200@gmail.com**
 
