@@ -28,8 +28,8 @@
 	/>
 </p>
 
-- 🔭 I’m currently working on a project called **Innobix in Angular.** - 📫 How
-to reach me **prasannarv1308@gmail.com**
+- 🔭 I’m currently working on a project called **Innobix in Angular.**
+- 📫 How to reach me **prasannarv1308@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
