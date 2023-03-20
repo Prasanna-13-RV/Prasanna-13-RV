@@ -1,4 +1,5 @@
-![MasterHead](https://img.freepik.com/free-vector/application-development-banner_1325-399.jpg?w=826&t=st=1673888362~exp=1673888962~hmac=6bf646228ff1877c069fa60273703d2fed3dd36ca027a53f5e6c8bfe7134ac36)
+![MasterHead]
+<!-- (https://img.freepik.com/free-vector/application-development-banner_1325-399.jpg?w=826&t=st=1673888362~exp=1673888962~hmac=6bf646228ff1877c069fa60273703d2fed3dd36ca027a53f5e6c8bfe7134ac36) -->
 
 <h1 align="center">
 	Hi
@@ -14,12 +15,12 @@
 	revenue growth.
 </h3>
 
-<!-- <img
+<img
 	align="right"
 	alt="Coding"
 	width="400"
 	src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
-/> -->
+/>
 
 <p align="left">
 	<img
