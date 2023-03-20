@@ -14,12 +14,12 @@
 	revenue growth.
 </h3>
 
-<img
+<!-- <img
 	align="right"
 	alt="Coding"
 	width="400"
 	src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
-/>
+/> -->
 
 <p align="left">
 	<img
